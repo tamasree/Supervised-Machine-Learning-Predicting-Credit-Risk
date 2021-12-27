@@ -18,9 +18,9 @@ Note: these two CSVs have been undersampled to give an even number of high risk 
 
 ## Following steps are followed:
 
-## Preprocessing: Convert categorical data to numeric
+#### Preprocessing: Convert categorical data to numeric
 
-## Fit a LogisticRegression model and RandomForestClassifier model
+#### Fit a LogisticRegression model and RandomForestClassifier model
 
-## Revisit the Preprocessing: Scale the data
+#### Revisit the Preprocessing: Scale the data
 
